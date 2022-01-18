@@ -1,0 +1,19 @@
+Actividad 1
+
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+		Una variable es como una caja que contiene un dato. Así como yo puedo cambiar el contenido de una misma caja, el valor del dato contenido por la variable puede ser cambiado por otro.
+		Por ejemplo, puedo crear la variable "caja1" y ponerle la palabra "Hola". Hasta acá nuestra "caja" tiene dentro suyo un "Hola". Pero luego puedo sumarle más datos a mi "caja". Por ejemplo, podemos poner la palabra "Mundo" a "caja1". Como resultado, en nuestra caja habrá cambiado el dato contenido: "hola"+"Mundo" = "holaMundo"
+
+	* Strings
+		Un String es una variable que contiene una cadena de datos. Es decir, contiene una serie de palabras, frases, numeros o letras. Estos datos están ordenados con números: siendo 0 el primero y los siguientes son 1, 2, 3... y así sucesivamente.
+
+	* Funciones (argumentos, `return`)
+		Las funciones son "pedacitos" de código que pueden ser reutilizados. Esto es para evitar que el programador cree un código demasiado repetitivo. Estas pueden contener instrucciones de todo tipo.
+
+	* Declaraciones `if`
+		La declaración if sirve para tomar decisiones. Pero ¿Decisiones sobre qué? Decisiones en base a si cierta condición se cumple o no. Es decir, si es verdadera o falsa. Segun se cumpla la condición, es que el programa decidirá si realizar o no una tarea. Por ejemplo, para saber si debo lavar los platos, es necesario que se cumpla la condición de "hay platos sucios". Si hay platos sucios, la condición es verdadera; entonces procederemos a lavar los platos. Si no los hay, es falsa; por lo tanto, no haremos nada.
+
+	* Valores booleanos (`true`, `false`)
+		Los valores booleanos son un tipo de dato que sólo puede tener dos valores "true" o verdadero y "false" o falso. La expresión dentro de una declaración if puede tener un valor "true" si se cumple o "false" si no se cumple. Un ejemplo de sentencia falsa es ¿Será 1 igual que 2? en este caso el valor de la sentencia es "false" en cambio, la sentencia ¿Será 1 igual que 1? es verdadera y por eso tiene un valor "true".
